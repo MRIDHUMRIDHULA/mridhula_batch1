@@ -1,1 +1,3 @@
-a file to implement push command in git
+a file to implement add and commit command in git
+
+making changes to the added file 
