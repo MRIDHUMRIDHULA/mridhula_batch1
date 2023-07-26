@@ -2,4 +2,4 @@ a file to implement add and commit command in git
 
 making changes to the added file 
 
-making changes to add the changes alltogether with 2 files
+making changes to add and commit the changes simultaneously in all files
